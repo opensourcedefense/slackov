@@ -6,4 +6,5 @@ Flask
 gunicorn
 flask-cors
 SQLAlchemy
+mysql-python
 configparser
